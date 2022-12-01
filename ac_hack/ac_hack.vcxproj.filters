@@ -16,9 +16,6 @@
     <Filter Include="proc">
       <UniqueIdentifier>{f19fb64a-e263-4ea8-83e3-52503e220849}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Headerdateien\a">
-      <UniqueIdentifier>{9a34e731-cae2-4460-90d7-c36d75ab601c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="proc\a">
       <UniqueIdentifier>{b0bdada4-4983-446d-bb0c-37278a56146e}</UniqueIdentifier>
     </Filter>
